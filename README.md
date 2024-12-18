@@ -9,7 +9,7 @@ Réalisations :
   + Mockup de tableau de bord projet et veille informationnelle
 
 Softs Skills travaillées :
-  +  Adapter sa posture de professionnel de la data.
+  +  Adapter une posture de professionnel de la data.
   +  Challenger les besoins et répondre à la demande client.
 
 Compétences travaillées :
